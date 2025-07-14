@@ -3,3 +3,6 @@
 ---
 
 <p align="center">Comunidad de hacking ético en español dedicada a compartir conocimientos, herramientas y buenas prácticas en ciberseguridad ofensiva y defensiva. Aprendizaje colaborativo, retos, y soporte entre miembros.</p>
+
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=agoralatam)
